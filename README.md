@@ -23,3 +23,6 @@ git branch development
  7. Git merge <your branch(audrey)> development
  (get all the merges to your local branch)
 
+
+This will have all the changes made on the development to be on  the branch youy are working on.
+Always ensiure you are working on the branch you created and not development
